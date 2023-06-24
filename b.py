@@ -11,4 +11,5 @@ def a(grid):
         if lst[i]!=lst[i-1]:
             ans=ans+lst[i]
     print(ans)
+    print(ans)
 a([[1,1,1],[1,1,1],[1,1,1]])
